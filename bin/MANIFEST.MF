@@ -1,0 +1,6 @@
+MIDlet-1: gBookReader, gBookReader.png, gBookReader
+MIDlet-Name: gBookReader
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

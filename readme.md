@@ -1,0 +1,1 @@
+the program for mobile phones performing the reading of texts in ascii format. Your phone must support java.
